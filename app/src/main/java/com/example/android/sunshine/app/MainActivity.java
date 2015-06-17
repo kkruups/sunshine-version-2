@@ -29,6 +29,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//test comment
 public class MainActivity extends ActionBarActivity {
 
     @Override
