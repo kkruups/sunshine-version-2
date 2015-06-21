@@ -1,7 +1,7 @@
 package com.example.android.sunshine.app;
 
 
-import android.support.v4.app.Fragment;
+import android.support.v4.app.Fragment;  // for minSDK 10 backported fragment class (different class from sdk v.11
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
